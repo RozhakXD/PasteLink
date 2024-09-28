@@ -1,4 +1,5 @@
 # PasteLink - View Booster for Pastelink
+![PasteLink](https://github.com/user-attachments/assets/30203532-15ba-458c-b223-0f4db2799357)
 
 **PasteLink** adalah tools sederhana yang dirancang untuk meningkatkan jumlah tampilan (views) pada tautan yang dihosting di [Pastelink](https://pastelink.net). Dengan menggunakan kombinasi berbagai agen pengguna (user-agent) acak, tools ini dapat mensimulasikan permintaan dari perangkat yang berbeda untuk menghasilkan tampilan yang lebih banyak.
 
