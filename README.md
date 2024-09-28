@@ -44,7 +44,7 @@
     - Error: jumlah error yang terjadi.
 
 ## Masalah dan Solusi
-Jika views tidak masuk, kemungkinan besar terjadi **spam** karena Anda terlalu banyak menginputkan jumlah permintaan (request) yang dikirim sekaligus. Berikut adalah beberapa cara yang dapat membantu mengatasi masalah tersebut:
+Jika views tidak masuk atau berkurang, kemungkinan besar terjadi **spam** karena Anda terlalu banyak menginputkan jumlah permintaan (request) yang dikirim sekaligus. Berikut adalah beberapa cara yang dapat membantu mengatasi masalah tersebut:
 - **Kurangi JUMLAH PERMINTAAN**: Cobalah mengurangi jumlah permintaan yang dikirimkan dalam satu waktu agar tidak terdeteksi sebagai spam.
 - Gunakan **VPN**: Mengubah lokasi IP dengan menggunakan VPN bisa membantu menghindari deteksi spam.
 - Aktifkan **MODE PESAWAT**: Pada perangkat mobile, aktifkan dan matikan **mode pesawat** sebelum mengirim permintaan baru untuk menyegarkan jaringan.
@@ -61,13 +61,10 @@ Dukungan Anda sangat membantu untuk terus mengembangkan project ini.
 
 ## Changelog
 **v1.0.0**
-- Rilis awal dengan fitur utama: mengirim permintaan otomatis ke tautan Pastelink.
+- **Rilis awal dengan fitur utama**: mengirim permintaan otomatis ke tautan Pastelink.
 
 ## Tanggung Jawab Pengguna
 Script ini dibuat hanya untuk keperluan edukasi dan testing. Penggunaan script ini untuk tujuan yang melanggar kebijakan **Pastelink** atau situs lain merupakan tanggung jawab pengguna. Gunakan dengan bijak!
-
-## Melaporkan Masalah
-Jika Anda menemukan bug atau masalah lainnya, silakan laporkan melalui [GitHub Issues](https://github.com/RozhakXD/PasteLink/issues).
 
 ## Lisensi
 Script ini dilisensikan di bawah lisensi [MIT](https://github.com/RozhakXD/PasteLink?tab=MIT-1-ov-file).
