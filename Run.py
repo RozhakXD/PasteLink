@@ -98,13 +98,13 @@ def Spam_Permintaan(url: str, num_requests: int, max_workers: int):
     return ('null')
 
 if __name__=='__main__':
-    print(f"""{COLORS['MERAH']}______         _       _     _       _    
+    print(r"""{}______         _       _     _       _    
 | ___ \       | |     | |   (_)     | |   
 | |_/ /_ _ ___| |_ ___| |    _ _ __ | | __
 |  __/ _` / __| __/ _ \ |   | | '_ \| |/ /
 | | | (_| \__ \ ||  __/ |___| | | | |   < 
-{COLORS['PUTIH']}\_|  \__,_|___/\__\___\_____/_|_| |_|_|\_\ v1.0.0{COLORS['RESET']}
-""") # Coded by Rozhak
+{}\_|  \__,_|___/\__\___\_____/_|_| |_|_|\_\ v1.5.0{}
+""".format(COLORS['MERAH'], COLORS['PUTIH'], COLORS['RESET'])) # Coded by Rozhak
     tautan = input(f"{COLORS['PUTIH']}[{COLORS['HIJAU']}?{COLORS['PUTIH']}] Tautan:{COLORS['HIJAU']} ")
     if tautan.startswith('https://pastelink.net') == True:
         num_requests = int(input(f"{COLORS['PUTIH']}[{COLORS['HIJAU']}?{COLORS['PUTIH']}] Jumlah Permintaan:{COLORS['MERAH']} "))
